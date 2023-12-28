@@ -1,0 +1,26 @@
+emp_id,emp_name,location,joining_date,score,job_domain,language_id
+1,shridhar,maharashtra,2022,9.2,marketing,4
+2,rajendra,punjab,2021,7.3,web development,3
+3,manisha,maharashtra,2013,6,Sales,4
+4,pooja,punjab,2023,5,web development,3
+5,parth,maharashtra,2022,7,web development,4
+6,rajesh,gujrat,2000,9,marketing,6
+7,suresh,MP,2001,7,marketing,1
+8,mahesh,maharashtra,2009,8.4,Sales,4
+9,ravi,gujrat,2001,7.4,web development,6
+10,john,Goa,2015,7.2,web development,2
+11,adam,punjab,2000,9.3,marketing,3
+12,mohan,maharashtra,1999,8.8,marketing,4
+13,deepak,maharashtra,1998,8.6,web development,4
+14,mohit,maharashtra,1995,8,marketing,4
+15,sumer,Rajasthan,2000,8.5,Sales,5
+16,harry,maharashtra,1997,7.9,Sales,4
+17,sonal,gujrat,1946,8.6,marketing,6
+18,neil,maharashtra,2009,7.8,finance,4
+19,ankur,maharashtra,1972,9.2,marketing,4
+20,abhay,maharashtra,2008,9,finance,4
+21,swapnil,maharashtra,1990,9,marketing,4
+22,karan,Tamil nadu,2019,8.2,Sales,5
+23,arjun,maharashtra,2019,8.5,marketing,4
+24,paresh,maharashtra,2019,8.4,web development,4
+25,jaggi,punjab,2010,8,marketing,3

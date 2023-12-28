@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Deployment using FLASK</title> 
+</head>
+
+<body>
+ <div class="login">
+	<h1>Predict the Species</h1>
+
+
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="number" step=".01" name="sepal length" placeholder="sepal length" required="required" />
+        <input type="number" step=".01" name="sepal width" placeholder="sepal width" required="required" />
+		<input type="number" step=".01" name="petal length" placeholder="petal length" required="required" />
+         <input type="number" step=".01" name="petal width" placeholder="petal width" required="required" />
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>
