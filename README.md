@@ -126,6 +126,7 @@ To run the notebooks and scripts in this repository, you will need to have Pytho
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 🚀 Usage
 Each directory contains its respective Jupyter notebooks 📓 and scripts 💻. Feel free to explore and run them to deepen your understanding of various data science concepts.
