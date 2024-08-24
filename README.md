@@ -103,7 +103,7 @@ Feel free to explore the various notebooks and scripts, and don’t hesitate to 
 
 ### 📊 Power BI
 - **Directory:** `26 Powerbi_files/Powerbi_files`
-- [📊 Power BI](https://s3.amazonaws.com/assets.datacamp.com/email/other/Power+BI_Cheat+Sheet.pdf) 
+- [Power BI](https://s3.amazonaws.com/assets.datacamp.com/email/other/Power+BI_Cheat+Sheet.pdf) 
 - **Description:** Power BI dashboards and visualizations 📊 to bring your data to life.
 
 ### ⚙️ Optimizers in ANN
@@ -121,6 +121,10 @@ Feel free to explore the various notebooks and scripts, and don’t hesitate to 
 ### 💬 Natural Language Processing (NLP)
 - **Directory:** `31 nlp_basics/nlp_basics`
 - **Description:** Basics of NLP 💬 and its applications in text analysis.
+- 
+### 💬docker cheatsheet (NLP)
+- [☸️🐋 docker cheatsheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+
 
 ## ⚙️ Installation
 
