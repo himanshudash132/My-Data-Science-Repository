@@ -129,13 +129,13 @@ pip install -r requirements.txt
 ```
 
 ## 🚀 Usage
-Each directory contains its respective Jupyter notebooks 📓 and scripts 💻. Feel free to explore and run them to deepen your understanding of various data science concepts.
+**Each directory contains its respective Jupyter notebooks 📓 and scripts 💻. Feel free to explore and run them to deepen your understanding of various data science concepts.**
 
 ## 🤝 Contributing
-Contributions are welcome! If you find any issues 🐛 or have suggestions 💡 for improvements, please open an issue or submit a pull request.
+**Contributions are welcome! If you find any issues 🐛 or have suggestions 💡 for improvements, please open an issue or submit a pull request.**
 
 ## 📜 License
-This project is licensed under the MIT License 📜 - see the LICENSE file for details.
+**This project is licensed under the MIT License 📜 - see the LICENSE file for details.**
 
 ## 📧 Contact
-For any questions or inquiries, feel free to reach out to me at himanshudash132@example.com 📩.
+**For any questions or inquiries, feel free to reach out to me at himanshudash132@example.com 📩.**
