@@ -27,6 +27,7 @@ Welcome to my Data Science Course repository! This is where I store all my work 
   - [🔄 Recurrent Neural Networks & LSTM](#-recurrent-neural-networks--lstm)
   - [💬 Natural Language Processing (NLP)](#-natural-language-processing-nlp)
   - [☸️🐋 docker cheatsheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+  - [☸️🐋 Microsoft Execl cheatsheet](https://images.datacamp.com/image/upload/v1674225279/Excel_Cheat_Sheet_218f6c7f57.png)
 - [⚙️ Installation](#-installation)
 - [🚀 Usage](#-usage)
 - [🤝 Contributing](#-contributing)
