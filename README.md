@@ -5,6 +5,8 @@ Welcome to my Data Science Course repository! This is where I store all my work 
 ## 📚 Table of Contents
 
 - [📖 Introduction](#-introduction)
+- ### PYTHON cheatsheet 
+   - [PYTHON cheatsheet](https://media.datacamp.com/cms/python-basics-cheat-sheet-v3.pdf)
 - [🗂️ Course Modules](#-course-modules)
   - [🔰 Basics](#-basics)
   - [📈 Regressions](#-regressions)
